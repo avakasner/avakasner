@@ -4,7 +4,7 @@ I am a healthcare data analyst
 ✉️  You can contact me at [kasnerava@gmail.com](mailto:kasnerava@gmail.com) 
 🧠  I'm learning SQL 
 🤝  I'm open to collaborating on fun projects 
-⚡  I am a fitness and nutrition enthusiast
+⚡  I am a fitness and nutrition enthusiast!
 
 ### Skills  
 
