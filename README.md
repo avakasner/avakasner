@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ava Kasner ==================================================================================================================================  Data Analyst ------------  I am a healthcare data analyst who loves python!  * 🌍  I'm based in Florida * ✉️  You can contact me at [kasnerava@gmail.com](mailto:kasnerava@gmail.com) * 🧠  I'm learning SQL * 🤝  I'm open to collaborating on fun projects * ⚡  I am a fitness and nutrition enthusiast
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ava Kasner   Data Analyst ------------  I am a healthcare data analyst who loves python!  * 🌍  I'm based in Florida * ✉️  You can contact me at [kasnerava@gmail.com](mailto:kasnerava@gmail.com) * 🧠  I'm learning SQL * 🤝  I'm open to collaborating on fun projects * ⚡  I am a fitness and nutrition enthusiast
 
 ### Skills  
 
